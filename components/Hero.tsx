@@ -6,14 +6,14 @@ const slides = [
   {
     id: 1,
     image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2000&auto=format&fit=crop",
-    title: "L'Énergie de Demain, Aujourd'hui",
+    title: "oussama,
     subtitle: "Panneaux solaires haute efficacité pour un avenir durable.",
     cta: "Découvrir nos solutions"
   },
   {
     id: 2,
     image: "https://images.unsplash.com/photo-1545209463-ce23d1d1eb96?q=80&w=2000&auto=format&fit=crop",
-    title: "Pompage Solaire Agricole",
+    title: "imade",
     subtitle: "Des solutions autonomes pour irriguer vos cultures efficacement.",
     cta: "Voir les pompes"
   },
